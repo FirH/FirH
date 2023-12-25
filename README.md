@@ -27,7 +27,7 @@ I'm a Data Scientist attempting to contribute to Indonesia through Artificial In
 ### The Grind
 
 <a href="https://git.io/streak-stats" target="_blank">
-		<img src="https://github-readme-streak-stats.herokuapp.com?user=DedeKurnn&ring=007AFF&currStreakNum=007AFF&currStreakLabel=007AFF&fire=007AFF" alt="Github Streak" width="42.5%"/>
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=DedeKurnn&ring=007AFF&currStreakNum=007AFF&currStreakLabel=007AFF&fire=007AFF" alt="Github Streak" width="42.5%"/>
 </a>
 
 <!--
