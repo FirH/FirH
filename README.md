@@ -6,6 +6,15 @@ I'm a Data Scientist attempting to contribute to Indonesia through Artificial In
 
 ---
 
+### Connect With Me
+
+<a href="https://www.instagram.com/firhanih">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.linkedin.com/in/firhanhaekal/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
+---
+
 ### Tech Stack
 
 <img align="left" alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
