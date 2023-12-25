@@ -4,6 +4,10 @@
 
 I'm a Data Scientist attempting to contribute to Indonesia through Artificial Intelligence. My coding projects are built to help other people or to increase their knowledge.
 
+---
+
+### Tech Stack
+
 <!--
 **FirH/FirH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
