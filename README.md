@@ -1,8 +1,8 @@
 ## Firhan Imam Haekal
 
-### Data Scientist 
+### About Me
 
-I'm a Data Scientist attempting to contribute to Indonesia through Artificial Intelligence. My coding projects are built to help other people or to increase their knowledge. I love to bring complex concepts more understandable
+I'm a Data Scientist attempting to contribute to Indonesia through Artificial Intelligence. My coding projects are built to help other people or to increase their knowledge.
 
 <!--
 **FirH/FirH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
