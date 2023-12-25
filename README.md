@@ -26,7 +26,7 @@ I'm a Data Scientist attempting to contribute to Indonesia through Artificial In
 
 ---
 
-### The Grind
+### Github Status
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=FirH&theme=dark)](https://git.io/streak-stats)
 
