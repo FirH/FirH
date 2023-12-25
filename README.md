@@ -29,8 +29,8 @@ I'm a Data Scientist attempting to contribute to Indonesia through Artificial In
 ### Github Stats
 <p align="left">
 <a href="https://github.com/FirH">
-    <img height="140em", src="https://streak-stats.demolab.com/?user=FirH&theme=dark"/>
-    <img heigth="200em", src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirH&theme=dark&layout=compact"/>
+    <img width=415px, src="https://streak-stats.demolab.com/?user=FirH&theme=dark"/>
+    <img width=350px, src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirH&theme=dark&layout=compact"/>
 </a>
 </p>
 
