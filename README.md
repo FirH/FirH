@@ -1,4 +1,6 @@
-### Hi there 👋
+## Firhan Imam Haekal
+
+### Data Scientist
 
 <!--
 **FirH/FirH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
