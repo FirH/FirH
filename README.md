@@ -26,9 +26,13 @@ I'm a Data Scientist attempting to contribute to Indonesia through Artificial In
 
 ---
 
-### Github Status
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FirH&theme=dark)](https://git.io/streak-stats)
+### Stats
+<p align="left">
+<a href="https://github.com/FirH">
+    <img height="140em", src="https://streak-stats.demolab.com/?user=FirH&theme=dark"/>
+    <img heigth="200em", src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirH&theme=dark&layout=compact"/>
+</a>
+</p>
 
 <!--
 **FirH/FirH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
