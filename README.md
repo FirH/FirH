@@ -26,7 +26,7 @@ I'm a Data Scientist attempting to contribute to Indonesia through Artificial In
 
 ---
 
-### Stats
+### Github Stats
 <p align="left">
 <a href="https://github.com/FirH">
     <img height="140em", src="https://streak-stats.demolab.com/?user=FirH&theme=dark"/>
