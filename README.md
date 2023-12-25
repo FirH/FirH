@@ -21,9 +21,14 @@ I'm a Data Scientist attempting to contribute to Indonesia through Artificial In
 <img align="left" alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<br />
+<br />
 
 ---
 
+### The Grind
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FirH&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **FirH/FirH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
