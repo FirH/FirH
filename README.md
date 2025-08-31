@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a Data Scientist attempting to become a full-stack developer. Actively working on projects to solve relevant problems
+AI Engineer interested in avoiding out of memory problems
 
 ---
 
